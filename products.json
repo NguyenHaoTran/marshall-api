@@ -1,0 +1,134 @@
+{
+  "contents": [
+    {
+      "_id": "1",
+      "name": "Marshall Stanmore II",
+      "price": 349.99,
+      "description": "Classic Marshall speaker with Bluetooth 5.0 technology.",
+      "type": "Bluetooth Speaker",
+      "size": [{ "name": "Standard", "amount": "500" }],
+      "material": "Wood, Vinyl",
+      "images": [
+        "https://www.example.com/stanmore-ii-1.jpg",
+        "https://www.example.com/stanmore-ii-2.jpg"
+      ]
+    },
+    {
+      "_id": "2",
+      "name": "Marshall Acton II",
+      "price": 249.99,
+      "description": "Compact Bluetooth speaker with powerful sound.",
+      "type": "Bluetooth Speaker",
+      "size": [{ "name": "Standard", "amount": "800" }],
+      "material": "Wood, Vinyl",
+      "images": [
+        "https://www.example.com/acton-ii-1.jpg",
+        "https://www.example.com/acton-ii-2.jpg"
+      ]
+    },
+    {
+      "_id": "3",
+      "name": "Marshall Woburn II",
+      "price": 499.99,
+      "description": "Larger-than-life sound for your home.",
+      "type": "Bluetooth Speaker",
+      "size": [{ "name": "Standard", "amount": "300" }],
+      "material": "Wood, Vinyl",
+      "images": [
+        "https://www.example.com/woburn-ii-1.jpg",
+        "https://www.example.com/woburn-ii-2.jpg"
+      ]
+    },
+    {
+      "_id": "4",
+      "name": "Marshall Emberton",
+      "price": 149.99,
+      "description": "Portable and waterproof Bluetooth speaker.",
+      "type": "Portable Speaker",
+      "size": [{ "name": "Standard", "amount": "1000" }],
+      "material": "Plastic, Rubber",
+      "images": [
+        "https://www.example.com/emberton-1.jpg",
+        "https://www.example.com/emberton-2.jpg"
+      ]
+    },
+    {
+      "_id": "5",
+      "name": "Marshall Kilburn II",
+      "price": 299.99,
+      "description": "Portable speaker with a powerful sound.",
+      "type": "Portable Speaker",
+      "size": [{ "name": "Standard", "amount": "700" }],
+      "material": "Wood, Vinyl",
+      "images": [
+        "https://www.example.com/kilburn-ii-1.jpg",
+        "https://www.example.com/kilburn-ii-2.jpg"
+      ]
+    },
+    {
+      "_id": "6",
+      "name": "Marshall Major IV",
+      "price": 149.99,
+      "description": "Iconic headphones with 80+ hours of wireless playtime.",
+      "type": "Headphones",
+      "size": [{ "name": "Standard", "amount": "1200" }],
+      "material": "Plastic, Metal",
+      "images": [
+        "https://www.example.com/major-iv-1.jpg",
+        "https://www.example.com/major-iv-2.jpg"
+      ]
+    },
+    {
+      "_id": "7",
+      "name": "Marshall Motif A.N.C.",
+      "price": 199.99,
+      "description": "True wireless earbuds with active noise canceling.",
+      "type": "Earbuds",
+      "size": [{ "name": "Standard", "amount": "1500" }],
+      "material": "Plastic",
+      "images": [
+        "https://www.example.com/motif-anc-1.jpg",
+        "https://www.example.com/motif-anc-2.jpg"
+      ]
+    },
+    {
+      "_id": "8",
+      "name": "Marshall Minor III",
+      "price": 129.99,
+      "description": "True wireless earbuds with signature sound.",
+      "type": "Earbuds",
+      "size": [{ "name": "Standard", "amount": "1600" }],
+      "material": "Plastic",
+      "images": [
+        "https://www.example.com/minor-iii-1.jpg",
+        "https://www.example.com/minor-iii-2.jpg"
+      ]
+    },
+    {
+      "_id": "9",
+      "name": "Marshall Tufton",
+      "price": 399.99,
+      "description": "Rugged and portable speaker with long battery life.",
+      "type": "Portable Speaker",
+      "size": [{ "name": "Standard", "amount": "600" }],
+      "material": "Wood, Vinyl",
+      "images": [
+        "https://www.example.com/tufton-1.jpg",
+        "https://www.example.com/tufton-2.jpg"
+      ]
+    },
+    {
+      "_id": "10",
+      "name": "Marshall Stockwell II",
+      "price": 249.99,
+      "description": "Portable speaker with multi-directional sound.",
+      "type": "Portable Speaker",
+      "size": [{ "name": "Standard", "amount": "900" }],
+      "material": "Wood, Vinyl",
+      "images": [
+        "https://www.example.com/stockwell-ii-1.jpg",
+        "https://www.example.com/stockwell-ii-2.jpg"
+      ]
+    }
+  ]
+}
